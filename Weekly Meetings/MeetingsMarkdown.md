@@ -1,5 +1,5 @@
 
-# Emma's Weekly Meeting Notes
+# Emilie's Weekly Meeting Notes
 
 * [13 October 2022](#date-30-october-2022)
 * [20 October 2022](#date-20-october-2022)
