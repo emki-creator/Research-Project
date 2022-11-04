@@ -49,11 +49,11 @@ N/A
 
 #### What did you achieve?
 
-* We thought we achieved to solve the envoriment for the hpc to have the autoencoder run on the gpu's.
+* We thought we achieved to solve the enviroment for the hpc to have the autoencoder run on the gpu's.
 
 #### What did you struggle with?
 
-* I struggled a lot with the hpc and getting my code to run on gpu as there was some fault in the virtual envoriment and the way tensorflow was installed. Whenever Dovile and I thought we had solved it the enviroment would collapse and we would have to start debugging the whole problem again. 
+* I struggled a lot with the hpc and getting my code to run on gpu as there was some fault in the virtual envoriment, and the way tensorflow was installed. Whenever Dovile and I thought we had solved it, the enviroment would collapse and we would have to start debugging the whole problem again. 
 
 #### What would you like to work on next week?
 
@@ -76,7 +76,7 @@ N/A
 #### What did you achieve?
 
 * THE GPU FINALLLY WORKED and i was back on track to improve my autoencoder and fine tuning on the x-ray dataset. 
-* Additionally I did a test run on the cifar100 dataset and achieved a test score on the chest x-ray of 95%. 
+* Additionally I did a test run on the cifar100 dataset and achieved a test score, on the chest x-ray, of 95%. 
 
 
 #### What did you struggle with?
@@ -93,6 +93,6 @@ N/A
 
 ### Date: 03 November 2022
 
-As we did not have a meeting last week point from previous data apply. 
+As we did not have a meeting last week, points from previous date apply. 
 
 ### Date: 09 November 2022
