@@ -87,12 +87,54 @@ N/A
 
 * How to make the autoecoder converge on imagenet.
 
-#### Where do you need help from Kirstie?
+#### Where do you need help from Veronika a& Dovile?
 
 * suggestions as to why the autoencoder is not converging on imagenet. 
 
 ### Date: 03 November 2022
 
-As we did not have a meeting last week, points from previous date apply. 
+#### Who did you help this week?
+
+N/A
+
+#### What did you achieve?
+
+* I finally mangaged to improve my autoencoder on imagenet, and it is now running on the GPU!
+
+
+#### What did you struggle with?
+
+* Figuring out what would help boost the loss on the autoencoder. 
+
+#### What would you like to work on next week?
+
+* I am doing finetuning on all 3 medical datasets I am using. And i am gonna start the training for the autoencoder trained on medical images when they are avaliable. 
+
+#### Where do you need help from Veronika & Dovile?
+
+* I am not entirely sure. 
 
 ### Date: 09 November 2022
+
+#### Who did you help this week?
+
+N/A
+
+#### What did you achieve?
+
+* I am still dealing with the the same as last week. 
+
+
+#### What did you struggle with?
+
+* Simple bugs and mistakes in the code.
+
+#### What would you like to work on next week?
+
+* Training for the autoencoder trained on medical images when they are avaliable. 
+
+#### Where do you need help from Veronika & Dovile?
+
+* I am not entirely sure. 
+
+
