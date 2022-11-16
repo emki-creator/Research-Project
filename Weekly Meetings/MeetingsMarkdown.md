@@ -158,6 +158,6 @@ N/A
 
 #### Where do you need help from Veronika & Dovile?
 
-* Feedback on how far I am in the process. I sometimes lack the ability to see if I am on time or not. I am estimating that I need at least 14 days to just write the paper. Meaning I have the rest of November that finish the code? 
+* Feedback on how far I am in the process. I sometimes lack the ability to see if I am on time or not. I am estimating that I need at least 14 days to just write the paper. Meaning I have the rest of November to finish the code? 
 
 
