@@ -6,6 +6,7 @@
 * [27 October 2022](#date-27-october-2022)
 * [03 November 2022](#date-03-november-2022)
 * [09 November 2022](#date-09-november-2022)
+* [17 November 2022](#date-17-november-2022)
 
 ### Date: 13 October 2022
 
