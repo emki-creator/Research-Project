@@ -137,4 +137,27 @@ N/A
 
 * I am not entirely sure. 
 
+### Date: 17 November 2022
+
+#### Who did you help this week?
+
+N/A
+
+#### What did you achieve?
+
+* I achived to make a final fine tuning on the chest x-ray with 5-fold cross validation, using the imagenet autoencoder. this also means that i have a done architecture for the radimagenet autoeencoder which should speed up the rest of the process.   
+
+
+#### What did you struggle with?
+
+* I struggled with the cross validation as the way i read in my images made it diffult to implement my usual sklearn crossvalidation go to. I found a work around and made it work. There also seem to be a lot of traffic on the gpu, so running eksperiments take ekstra time this week. 
+
+#### What would you like to work on next week?
+
+* finish all finetuning experiments and have the finished radimagenet autoencoder uploaded as well. 
+
+#### Where do you need help from Veronika & Dovile?
+
+* Feedback on how far I am in the process. I sometimes lack the ability to see if I am on time or not. I am estimating that I need at least 14 days to just write the paper. Meaning I have the rest of November that finish the code? 
+
 
