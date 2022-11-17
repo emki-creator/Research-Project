@@ -146,7 +146,7 @@ N/A
 
 #### What did you achieve?
 
-* I achived to make a final fine tuning on the chest x-ray with 5-fold cross validation, using the imagenet autoencoder. this also means that i have a done architecture for the radimagenet autoeencoder which should speed up the rest of the process.   
+* I achived to make a final fine tuning on the chest x-ray with 5-fold cross validation, using the imagenet autoencoder. this also means that i have a done architecture for the radimagenet autoeencoder which should speed up the rest of the process. Additonally I have had trouble figuring out why my base model was not performing as it should and i manged to find a bug in the code and solve that as well.   
 
 
 #### What did you struggle with?
