@@ -171,7 +171,7 @@ N/A
 
 #### What did you achieve?
 
-* I have been writing my report with can be found on overlead (link that enables editing and sharing was send on mail and teams).
+* I have been writing my report with can be found on overleaf (link that enables editing and sharing was send on mail and teams).
 
 
 #### What did you struggle with?
