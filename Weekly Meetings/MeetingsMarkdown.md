@@ -7,6 +7,7 @@
 * [03 November 2022](#date-03-november-2022)
 * [09 November 2022](#date-09-november-2022)
 * [17 November 2022](#date-17-november-2022)
+* [01 December 2022](#date-01-december-2022)
 
 ### Date: 13 October 2022
 
@@ -160,5 +161,29 @@ N/A
 #### Where do you need help from Veronika & Dovile?
 
 * Feedback on how far I am in the process. I am estimating that I need at least 14 days to just write the paper. Meaning I have the rest of November to finish the code? 
+
+
+### Date: 01 December 2022
+
+#### Who did you help this week?
+
+N/A
+
+#### What did you achieve?
+
+* I have been writing my report with can be found on overlead (link that enables editing and sharing was send on mail and teams).
+
+
+#### What did you struggle with?
+
+* Writing is always a process. queues on hpc. 
+
+#### What would you like to work on next week?
+
+* finishing up my experiments.
+
+#### Where do you need help from Veronika & Dovile?
+
+* reading my paper, see if i am on track with that. 
 
 
