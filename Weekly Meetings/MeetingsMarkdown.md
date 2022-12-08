@@ -8,6 +8,7 @@
 * [09 November 2022](#date-09-november-2022)
 * [17 November 2022](#date-17-november-2022)
 * [01 December 2022](#date-01-december-2022)
+* [08 December 2022](#date-08-december-2022)
 
 ### Date: 13 October 2022
 
@@ -185,5 +186,32 @@ N/A
 #### Where do you need help from Veronika & Dovile?
 
 * reading my paper, see if i am on track with that. 
+
+
+
+
+
+### Date: 08 December 2022
+
+#### Who did you help this week?
+
+N/A
+
+#### What did you achieve?
+
+* I have finished running baseline models. 
+
+
+#### What did you struggle with?
+
+* I am constantly queueing on the hpc, to finish RadImageNet autoencoder.  
+
+#### What would you like to work on next week?
+
+* writing. 
+
+#### Where do you need help from Veronika & Dovile?
+
+* General talk about project. 
 
 
