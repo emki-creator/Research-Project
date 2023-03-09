@@ -157,9 +157,9 @@ def run_model():
 
 
 
-train = pd.read_csv('train.csv')
-val  =	pd.read_csv('val.csv')
-test =	pd.read_csv('test.csv')
+train=pd.read_csv("train_fold"+str(i+1)+".csv")
+val=pd.read_csv("val_fold"+str(i+1)+".csv")
+test= pd.read_csv("test_fold"+str(i+1)+".csv")
 
 for i in range(5):
 
