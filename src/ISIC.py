@@ -191,10 +191,11 @@ def run_model():
 
 
 
-X_train =df[0:7000]
-X_val = df[7000:8000]
-X_test = df[8000:]
 
+
+X_train =pd.read_csv("train_fold"+str(i+1)+".csv")
+X_val=pd.read_csv("val_fold"+str(i+1)+".csv")
+X_test = pd.read_csv("test_fold"+str(i+1)+".csv")
 
 for i in range(5):
 
