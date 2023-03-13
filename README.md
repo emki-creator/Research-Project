@@ -6,4 +6,4 @@
 * The src folder contains all related code for finetuning. 
 
 
-*
+* The autoencoder folder contains all filesfor training the autoencoders
