@@ -10,3 +10,8 @@
 
 To run the experiments the autoencoder files first have to be run for pre-training. 
 hereafter you can run the src for the fine-tuning. 
+
+
+
+
+
